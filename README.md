@@ -38,3 +38,9 @@
 [python-api-tesing電子書](https://github.com/china-testing/python-api-tesing/blob/master/books.md)
 
 書籍不限於python
+
+## Python_books
+
+[Python_books](https://github.com/taotieren/Python_books)
+
+中英文Python電子書
