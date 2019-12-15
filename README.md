@@ -44,3 +44,9 @@
 [Python_books](https://github.com/taotieren/Python_books)
 
 中英文Python電子書
+
+## DeepLearning-500-questions
+
+[DeepLearning-500-questions](https://github.com/scutan90/DeepLearning-500-questions)
+
+快速學習與複習深度學習知識
