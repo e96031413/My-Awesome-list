@@ -116,7 +116,7 @@
 
 * CycleGAN: https://arxiv.org/abs/1703.10593
 
-** Object detection **
+**Object detection**
 
 * RCNN: https://arxiv.org/abs/1311.2524
 
@@ -130,13 +130,13 @@
 
 * YOLO9000: https://arxiv.org/abs/1612.08242
   
-** Instance Segmentation **
+**Instance Segmentation**
 
 * Mask-RCNN: https://arxiv.org/abs/1703.06870
 
 * YOLACT: https://arxiv.org/abs/1904.02689
 
-** Pose estimation **
+**Pose estimation**
 
 * PoseNet: https://arxiv.org/abs/1505.07427
 
