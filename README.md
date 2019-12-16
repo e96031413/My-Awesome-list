@@ -68,6 +68,81 @@
 
 機器學習/深度學習......等應用的論文及程式碼
 
+### 5. 機器學習與深度學習論文連結(arxiv)
+
+**Architectures**
+
+* AlexNet: https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks
+
+* ZFNet: https://arxiv.org/abs/1311.2901
+
+* VGG16: https://arxiv.org/abs/1505.06798
+
+* ResNet: https://arxiv.org/abs/1704.06904
+
+* GoogLeNet: https://arxiv.org/abs/1409.4842
+
+* Inception: https://arxiv.org/abs/1512.00567
+
+* Xception: https://arxiv.org/abs/1610.02357
+
+* MobileNet: https://arxiv.org/abs/1704.04861
+
+**Semantic Segmentation**
+
+* FCN: https://arxiv.org/abs/1411.4038
+
+* SegNet: https://arxiv.org/abs/1511.00561
+
+* UNet: https://arxiv.org/abs/1505.04597
+
+* PSPNet: https://arxiv.org/abs/1612.01105
+
+* DeepLab: https://arxiv.org/abs/1606.00915
+
+* ICNet: https://arxiv.org/abs/1704.08545
+
+* ENet: https://arxiv.org/abs/1606.02147
+
+**Generative adversarial networks**
+
+* GAN: https://arxiv.org/abs/1406.2661
+
+* DCGAN: https://arxiv.org/abs/1511.06434
+
+* WGAN: https://arxiv.org/abs/1701.07875
+
+* Pix2Pix: https://arxiv.org/abs/1611.07004
+
+* CycleGAN: https://arxiv.org/abs/1703.10593
+
+** Object detection **
+
+* RCNN: https://arxiv.org/abs/1311.2524
+
+* Fast-RCNN: https://arxiv.org/abs/1504.08083
+
+* Faster-RCNN: https://arxiv.org/abs/1506.01497
+
+* SSD: https://arxiv.org/abs/1512.02325
+
+* YOLO: https://arxiv.org/abs/1506.02640
+
+* YOLO9000: https://arxiv.org/abs/1612.08242
+  
+** Instance Segmentation **
+
+* Mask-RCNN: https://arxiv.org/abs/1703.06870
+
+* YOLACT: https://arxiv.org/abs/1904.02689
+
+** Pose estimation **
+
+* PoseNet: https://arxiv.org/abs/1505.07427
+
+* DensePose: https://arxiv.org/abs/1802.00434
+
+
 ## 影視
 
 ### 1. iptv
