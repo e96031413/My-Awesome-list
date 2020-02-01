@@ -150,3 +150,67 @@
 [iptv](https://github.com/iptv-org/iptv)
 
 蒐集全世界8000+個以上的直播頻道
+
+## 「資源」大全
+
+### 1. Warez
+
+[Warez](https://github.com/CHEF-KOCH/Warez)
+
+涵蓋所有你想的到與想不到的資源....
+
+### 2. awesome-piracy
+
+[awesome-piracy](https://github.com/Igglybuff/awesome-piracy)
+
+9k的stars、846次的fork，資源也是相當多
+
+### 3. Awesome OSINT
+
+[Awesome OSINT](https://github.com/jivoi/awesome-osint/blob/master/README.md)
+
+Open-source intelligence (OSINT)
+
+### 4. ODSHOT 2019-11: A list of all the open directories from the outset, BIMONTHLY refreshed!
+
+[ODSHOT 2019-11: A list of all the open directories from the outset, BIMONTHLY refreshed!](https://www.reddit.com/r/opendirectories/comments/dxt28f/odshot_201911_a_list_of_all_the_open_directories/)
+
+被公開於網際網路上的資料目錄
+
+## Awesome
+
+### 0.awesome
+
+[awesome](https://github.com/sindresorhus/awesome/blob/master/readme.md)
+
+awesome大全
+
+### 1.Awesome Design Tools
+
+[Awesome Design Tools](https://flawlessapp.io/designtools)
+
+設計工具集合
+
+### 2.Awesome Open Source
+
+[Awesome Open Source](https://awesomeopensource.com/)
+
+優秀開源專案
+
+### 3.free-for.dev
+
+[free-for.dev](https://free-for.dev/#/)
+
+給軟體工程師的免費工具
+
+### 4.Public APIs
+
+[Public APIs](https://public-apis.xyz/)
+
+API大全
+
+### 5.Awesome Cheatsheets
+
+[Awesome Cheatsheets](https://lecoupa.github.io/awesome-cheatsheets/)
+
+相當多的Cheatsheets小抄可以參考
