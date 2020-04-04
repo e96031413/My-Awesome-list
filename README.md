@@ -142,6 +142,11 @@
 
 * DensePose: https://arxiv.org/abs/1802.00434
 
+### 6.演算法筆記 - Vision
+
+[演算法筆記 - Vision](http://www.csie.ntnu.edu.tw/~u91029/Vision.html)
+
+蒐集了許多關於Computer Vision的技術科普介紹，配有影片，讓我們更容易了解該技術的應用。
 
 ## 影視
 
