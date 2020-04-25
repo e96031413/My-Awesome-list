@@ -148,6 +148,12 @@
 
 蒐集了許多關於Computer Vision的技術科普介紹，配有影片，讓我們更容易了解該技術的應用。
 
+### 7.The Super Duper NLP Repo
+
+[The Super Duper NLP Repo](https://notebooks.quantumstat.com/)
+
+超過100個可在Google Colab上執行的NLP程式碼實現
+
 ## 影視
 
 ### 1. iptv
