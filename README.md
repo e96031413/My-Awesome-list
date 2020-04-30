@@ -154,6 +154,12 @@
 
 超過100個可在Google Colab上執行的NLP程式碼實現
 
+### 8.深度學習(Deep Learning)-研讀資料整理
+
+[深度學習(Deep Learning)-研讀資料整理](https://jennaweng0621.pixnet.net/blog/post/404252024-%e9%96%b1%e8%ae%80%e6%b7%b1%e5%ba%a6%e5%ad%b8%e7%bf%92%e7%9b%b8%e9%97%9c%e8%b3%87%e6%96%99%e6%95%b4%e7%90%86)
+
+蒐集了許多經典論文與程式碼連結
+
 ## 影視
 
 ### 1. iptv
