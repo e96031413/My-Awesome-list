@@ -160,6 +160,12 @@
 
 蒐集了許多經典論文與程式碼連結
 
+### 9.Top-down learning path: Machine Learning for Software Engineers
+
+[Top-down learning path: Machine Learning for Software Engineers](https://github.com/ZuzooVn/machine-learning-for-software-engineers)
+
+給軟體工程師的機器學習指南
+
 ## 影視
 
 ### 1. iptv
