@@ -43,6 +43,12 @@
 
 中英文Python電子書
 
+### 5. Deep-learning-books
+
+[Deep-learning-books](https://github.com/loveunk/Deep-learning-books)
+
+深度學習相關電子書
+
 ## 機器學習/深度學習/人工智慧
 
 ### 1. DeepLearning-500-questions
