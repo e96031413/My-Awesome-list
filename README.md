@@ -172,6 +172,14 @@
 
 給軟體工程師的機器學習指南
 
+### 10.Andrew Ng機器學習筆記
+
+[斯坦福大學2014機器學習教程中文筆記目錄](http://www.ai-start.com/ml2014/)
+
+### 11.Andrew Ng深度學習筆記
+
+[深度學習筆記目錄](http://www.ai-start.com/dl2017/)
+
 ## 影視
 
 ### 1. iptv
